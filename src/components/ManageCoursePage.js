@@ -22,7 +22,7 @@ const ManageCoursePage = (props) => {
 		courseStore.addChangeListener(onChange);
 
 		const slug = props.match.params.slug; // from the path `/courses/:slug`
-		if (courses.length === 0 || "") {
+		if (courses.length === 0) {
 			courseActions.loadCourses();
 			courseActions.loadAuthors();
 		} else if (slug) {

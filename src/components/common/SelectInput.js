@@ -18,7 +18,7 @@ function SelectInput(props) {
 					value={props.value}
 					className="form-control"
 				>
-					<option value="">Chose a Author</option>
+					<option value="0">Select a Author</option>
 					{props.authors.map((author) => {
 						return (
 							<option key={author.id} value={author.id}>

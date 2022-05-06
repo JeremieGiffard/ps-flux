@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97ef2fe1aa986ac8c0611b3bcf6e9836",
+    "revision": "3856b712dc4c9e1e16b53afd17a02104",
     "url": "/ps-flux/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ps-flux/static/js/2.2b5c81f8.chunk.js"
   },
   {
-    "revision": "dea5c795d732ed7a3e73",
-    "url": "/ps-flux/static/js/main.c5ff2717.chunk.js"
+    "revision": "e475cc14d88ae3b74511",
+    "url": "/ps-flux/static/js/main.b70acce1.chunk.js"
   },
   {
     "revision": "454f12989080f9d40d73",

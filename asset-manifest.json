@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/ps-flux/static/js/main.535257a8.chunk.js",
+    "main.js.map": "/ps-flux/static/js/main.535257a8.chunk.js.map",
+    "runtime~main.js": "/ps-flux/static/js/runtime~main.727e9910.js",
+    "runtime~main.js.map": "/ps-flux/static/js/runtime~main.727e9910.js.map",
+    "static/css/2.b62f5c36.chunk.css": "/ps-flux/static/css/2.b62f5c36.chunk.css",
+    "static/js/2.2b5c81f8.chunk.js": "/ps-flux/static/js/2.2b5c81f8.chunk.js",
+    "static/js/2.2b5c81f8.chunk.js.map": "/ps-flux/static/js/2.2b5c81f8.chunk.js.map",
+    "index.html": "/ps-flux/index.html",
+    "precache-manifest.d6a0f26d33df80c8d326c075817f5932.js": "/ps-flux/precache-manifest.d6a0f26d33df80c8d326c075817f5932.js",
+    "service-worker.js": "/ps-flux/service-worker.js",
+    "static/css/2.b62f5c36.chunk.css.map": "/ps-flux/static/css/2.b62f5c36.chunk.css.map"
+  }
+}
